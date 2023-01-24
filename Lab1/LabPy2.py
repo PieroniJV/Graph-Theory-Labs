@@ -1,0 +1,1 @@
+#check if string is equal as to the reverse
